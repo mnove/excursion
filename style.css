@@ -1,0 +1,21 @@
+
+body {
+    background-color: black;
+    font-family: Verdana;
+    font-weight: normal;
+}
+
+.main-heading {
+    color: white;
+    text-align: center;
+}
+
+.main-heading  h1 {
+    font-size: 50px;
+}
+
+.main-heading .highlight {
+    color: aquamarine;
+    font-size: 16px;
+}
+
